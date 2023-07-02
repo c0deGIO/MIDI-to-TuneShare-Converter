@@ -1,0 +1,53 @@
+﻿43,Electric Piano
+41,Grand Piano
+17,Harpsichord
+25,Ragtime Piano
+26,Music Box
+0,Elec. Piano (Classic)
+8,Grand Piano (Classic)
+2,Drum Kit
+31,Electric Drum Kit
+19,Xylophone
+34,Vibraphone
+21,Steel Drums
+39,8-Bit Drum Kit
+40,2013 Drum Kit
+36,808 Drum Kit
+42,909 Drum Kit
+53,2023 Drum Kit
+1,Acoustic Guitar
+4,Electric Guitar
+48,Bass
+5,Bass (Classic)
+29,Slap Bass
+32,Jazz Guitar
+35,Muted E-Guitar
+38,Distortion Guitar
+44,Dist. Guitar (Sustain)
+49,Clean Guitar
+33,Sitar
+22,Koto
+52,Smooth Synth
+6,Synth Pluck
+7,Scifi
+13,8-Bit Sine
+14,8-Bit Square
+15,8-Bit Sawtooth
+16,8-Bit Triangle
+9,French Horn
+50,French Horn (Sustain)
+10,Trombone
+51,Trombone (Sustain)
+11,Violin
+46,Violin (Sustain)
+12,Cello
+45,Cello (Sustain)
+18,Concert Harp
+20,Pizzicato
+23,Flute
+47,Strings (Sustain)
+24,Saxophone
+27,Synth Bass
+28,Church Organ
+30,Pop Synth
+37,808 Bass
