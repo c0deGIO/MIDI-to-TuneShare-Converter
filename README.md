@@ -2,7 +2,7 @@ This is a python script that converts MIDI files to a code that my scratch proje
 
 Instructions
 - Download everything as a ZIP.
-- Open in a tab the page https://onlinesequencer.net/
+- Open in a new tab the page https://onlinesequencer.net/
 - Load a MIDI file in the tab opened, select all the notes and click "copy".
 - Go to the "Input" folder, create a new text file, paste the clipboard and save it.
 - Before running the main.py file, change the "filename" argument in line 100 to the name of the text file you just saved.
