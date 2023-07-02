@@ -48,7 +48,6 @@ def ConvertMIDItoTuneShare(filename, tempo, quality=1, outputname=""):
     with open(f"Input/{filename}", "r") as f:
         data = f.read().rsplit(":")[2]
     notesData = data.rsplit(";")
-    #print(notesData)
     notes = []
     slots = []
     lastVolume = 0
@@ -97,4 +96,5 @@ def ConvertMIDItoTuneShare(filename, tempo, quality=1, outputname=""):
     with open(f"Output/{outputname}", "w") as f:
         f.write(code)
 
-ConvertMIDItoTuneShare(filename="Creep.txt", tempo=93, quality=1)
+
+ConvertMIDItoTuneShare(filename="YOUR FILE.txt", tempo=120, quality=1)
